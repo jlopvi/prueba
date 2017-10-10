@@ -1,0 +1,11 @@
+commit 45549d6069e34080389cbd52f94c83bd0ddf2f7e
+Author: Jesus Lopez <jalopezvillatoro@gmail.com>
+Date:   Sun Oct 8 20:18:51 2017 -0600
+
+    preuba 2
+
+commit 934c404769aba84b1a8b06b6a37a83170809dd44
+Author: Jesus Lopez <jalopezvillatoro@gmail.com>
+Date:   Sun Oct 8 20:15:55 2017 -0600
+
+    primer comit
